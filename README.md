@@ -2,6 +2,14 @@
 
 General-purpose workspace for running Windows games with Wine on Linux.
 
+Exemplar of game I ran using wine on NixOS (Windows 2002 era ~ I played as a
+kid called Big Biz Tycoon; I still have the CD and everything!):
+
+
+<div align="center">
+  <img src="./media/bbt.gif">
+</div>
+
 ## Goals
 
 - Keep Wine tooling in one reproducible environment
